@@ -1,4 +1,4 @@
-# ESP-IDF Zephyr State Machine Framework
+# State Machine Framework for ESP-IDF
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
