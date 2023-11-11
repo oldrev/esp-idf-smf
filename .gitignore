@@ -1,0 +1,48 @@
+# Compiled object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Generated files
+Makefile
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+
+# OS or Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.swp
+Thumbs.db
+.DS_Store
+
+# Dependency directories
+bin/
+build/
+lib/
+
